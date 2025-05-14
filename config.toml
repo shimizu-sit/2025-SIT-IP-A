@@ -1,4 +1,4 @@
-BaseURL = "https://shimizulab.netlify.app/"
+BaseURL = "https://shimizulab-unity.netlify.app/"
 languageCode = "ja"
 title = "情報学実習A - Unityの基礎 -"
 theme = "book"
