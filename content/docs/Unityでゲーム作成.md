@@ -1,3 +1,9 @@
+---
+title: "Lecture 2"
+weight: 1
+bookMenu: main
+---
+
 # UnityでC#プログラミングをしてみよう
 
 ---

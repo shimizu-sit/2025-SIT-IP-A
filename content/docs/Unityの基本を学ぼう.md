@@ -1,3 +1,9 @@
+---
+title: "Lecture 1"
+weight: 1
+bookMenu: main
+---
+
 # Unityの基本を学ぼう
 
 
