@@ -1,5 +1,5 @@
 ---
-title: "Lecture 2"
+title: "ゲームづくり"
 weight: 1
 bookMenu: main
 ---

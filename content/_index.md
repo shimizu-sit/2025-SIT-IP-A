@@ -3,39 +3,15 @@ title: Introduction
 type: docs
 ---
 
-# Acerbo datus maxime
+# 情報学実習A Unityの基礎
 
-{{% columns %}}
-## Astris ipse furtiva
+## 担当教員
+- 堀越 先生（XRメディアセンター長）
+- 清水 先生
 
-Est in vagis et Pittheus tu arge accipiter regia iram vocatur nurus. Omnes ut
-olivae sensit **arma sorori** deducit, inesset **crudus**, ego vetuere aliis,
-modo arsit? Utinam rapta fiducia valuere litora _adicit cursu_, ad facies
+## SA学生
+- 中新田 さん（4年生，清水研，学術横断）
+- 三上 さん（4年生，堀越研，学術横断）
 
-<--->
-
-## Suis quot vota
-
-Ea _furtique_ risere fratres edidit terrae magis. Colla tam mihi tenebat:
-miseram excita suadent es pecudes iam. Concilio _quam_ velatus posset ait quod
-nunc! Fragosis suae dextra geruntur functus vulgata.
-{{% /columns %}}
-
-
-## Tempora nisi nunc
-
-Lorem **markdownum** emicat gestu. Cannis sol pressit ducta. **Est** Idaei,
-tremens ausim se tutaeque, illi ulnis hausit, sed, lumina cutem. Quae avis
-sequens!
-
-    var panel = ram_design;
-    if (backup + system) {
-        file.readPoint = network_native;
-        sidebar_engine_device(cell_tftp_raster,
-                dual_login_paper.adf_vci.application_reader_design(
-                graphicsNvramCdma, lpi_footer_snmp, integer_model));
-    }
-
-## Locis suis novi cum suoque decidit eadem
-
-Idmoniae ripis, at aves, ali missa adest, ut _et autem_, et ab?
+Unityを熟知しているのでわからないことがあれば積極的に聞いてください．
+また，学術横断XRコースに所属している学生なので学術横断について聞いてみてもいいと思います．
